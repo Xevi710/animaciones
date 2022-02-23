@@ -1,0 +1,5 @@
+.fecha{
+    filter: grayscale(80%);
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+      
+}
