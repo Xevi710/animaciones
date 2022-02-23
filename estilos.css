@@ -1,5 +1,5 @@
 .fecha:hover{
-    filter: grayscale(80%);
+    filter: grayscale(50%);
     -webkit-transform:scale(1.3);transform:scale(1.3);
       
 }
